@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/1a9d5c14-afeb-4659-becb-2a6a5b578b54" alt="bg image" width="70%" />
+<img src="https://github.com/user-attachments/assets/2956e4a8-e2be-49f5-95e1-5ddb183f8537" alt="bg image" width="70%" />
   <br/>
 
 ---
@@ -56,7 +56,7 @@ It's a personal effort for growth with a sincere intent to help others **learn a
 - **Weekly Reports**: Concise summaries in the `/weekly-reports` directory, perfect for tracking progress and reinforcing learning.
 - **Custom Better Comments**: A unique color-coded system for maximum readability:
 
-<img width="550" height="550" align="center" alt="Comments" src="https://github.com/user-attachments/assets/6d73a042-3466-4f0a-a7fe-ada607d38520" />
+<img width="550" height="550" align="center" alt="Comments" src="https://github.com/user-attachments/assets/ea6aa7f6-e393-4d70-8b79-ab1ba2afc3bd" />
 
 
 ## 🛠️ Tech Stack
