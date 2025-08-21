@@ -1,16 +1,17 @@
-//TITLE: Bubble Sort
-//DEFN: It is a method where you keep comparing two neighbors and swap them if they’re in the wrong order, making the biggest items slowly “bubble up” to the end.
+//TITLE: Recursive Bubble Sort
+//DEFN: Compare and swap neighbors like usual, but instead of using loops to decrease the value of n. We call the same function again (recursion) until it reaches base case (condition required to stop).
 //- TC : O(n^2) -> Worst, Avg case           O(n) -> Best case
-//- SC : O(1)
+//- SC : O(n) 
 
 
 #include<bits/stdc++.h>
 using namespace std;
 
-void bubble_sort(int arr[], int n){
+void recursive_bubble_sort(int arr[], int n){
+  if (n == 1) return;
+
   int did_swap = 0;
-  for(int i = n-1; i>=1; i--){
-    for(int j = 0; j < i; j++){
+    for(int j = 0; j < n-1; j++){
       if(arr[j] > arr[j + 1]){
         int temp = arr[j];
         arr[j] = arr[j + 1];
@@ -18,11 +19,10 @@ void bubble_sort(int arr[], int n){
         did_swap = 1;
       }
     }
-    if(did_swap == 0){
-      break;
-    }
-    cout << "The given loop is not orderd!!";
-  }
+
+  if (did_swap == 0) return;
+
+  recursive_bubble_sort(arr, n-1);      //Instead of doing backward loop to decrease n everytime, we are using recursion to decrease n
 }
 
 
@@ -35,7 +35,7 @@ int main(){
   int arr[n];
   for(int i = 0; i < n; i++) cin >> arr[i];
 
-  bubble_sort(arr, n);
+  recursive_bubble_sort(arr, n);
   cout << "Sorted Array is: ";
   for(int i = 0; i < n; i++) cout << arr[i] << "  ";
 }

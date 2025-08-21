@@ -6,13 +6,10 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void selection_sort(int arr[], int n)
-{
-  for (int i = 0; i < n - 2; i++)
-  { // Remember it's [ n-2 ] || 2nd last element(last element is automatically sorted/ need not be sorted)
+void selection_sort(int arr[], int n){
+  for (int i = 0; i < n - 2; i++){                                             // Remember it's [ n-2 ] || 2nd last element(last element is automatically sorted/ need not be sorted)
     int mini = i;
-    for (int j = i; j < n - 1; j++)
-    { // Remember it's [ n-1 ] || last element
+    for (int j = i; j < n - 1; j++){                                           // Remember it's [ n-1 ] || last element
       if (arr[j] < arr[mini])
         mini = j;
     }
