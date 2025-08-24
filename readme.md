@@ -112,7 +112,26 @@ The repository is organized logically to ensure easy navigation and scalability.
     <td>Sorting</td>
     <td>3</td>
   </tr>
+  
+  <tr><td>2</td><td>Sorting</td><td>3</td></tr>
+  <tr><td>3</td><td>Sorting & Arrays</td><td>2</td></tr>
+  <tr><td>4</td><td>Arrays</td><td>2</td></tr>
 
+<!-- 
+// Week 2
+<tr>
+    <td rowspan="7"><strong>Week 2</strong><br>🔗 Linear DS</td>
+    <td>8</td>
+    <td>Linked Lists</td>
+    <td>3</td>
+  </tr>
+  <tr><td>9</td><td>Linked Lists</td><td>3</td></tr>
+  <tr><td>10</td><td>Stack & Queue</td><td>3</td></tr>
+  <tr><td>11</td><td>Queue & Deque</td><td>3</td></tr>
+  <tr><td>12</td><td>Heap/Priority Queue</td><td>3</td></tr>
+  <tr><td>13</td><td>Heap Applications</td><td>3</td></tr>
+  <tr><td>14</td><td>Mixed Practice</td><td>3</td></tr>
+ -->
 </table>
 
 ---
@@ -283,6 +302,16 @@ cd your-repo-name
       "bold": false,
       "italic": false,
       "overviewRulerColor": "#0E9AA7"
+    },
+    {
+      "tag": "EXAMPLE",
+      "color": "#ffffff",
+      "backgroundColor": "#2B9348",
+      "strikethrough": false,
+      "underline": false,
+      "bold": false,
+      "italic": false,
+      "overviewRulerColor": "#2B9348"
     },
     {
       "tag": "- ",
