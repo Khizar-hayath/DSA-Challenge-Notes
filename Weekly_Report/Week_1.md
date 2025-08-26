@@ -21,8 +21,11 @@
 
 - **Was declaring the array wrong:** I created a new array instead of making changes in the same array. That increased space complexity significantly.
 <br>
-``` vector<int> &arr ``` -> changes occur in same array  
-``` vector<int> arr ``` -> New array is created to make changes
+
+ ``` vector<int> &arr ``` -> changes occur in same array  
+ 
+ ``` vector<int> arr ``` -> New array is created to make changes
+ 
 <br>
 
 
