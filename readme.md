@@ -116,6 +116,8 @@ The repository is organized logically to ensure easy navigation and scalability.
   <tr><td>2</td><td>Sorting</td><td>3</td></tr>
   <tr><td>3</td><td>Sorting & Arrays</td><td>2</td></tr>
   <tr><td>4</td><td>Arrays</td><td>2</td></tr>
+  <tr><td>5</td><td>Arrays</td><td>2</td></tr>
+  <tr><td>6</td><td>Arrays</td><td>2</td></tr>
 
 <!-- 
 // Week 2
