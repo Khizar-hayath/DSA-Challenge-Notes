@@ -95,49 +95,75 @@ The repository is organized logically to ensure easy navigation and scalability.
 
 ---
 
-### 🗓️ 50-Day Challenge Progress
+## 🗓️ 50-Day Challenge Progress
+<br>
 
 <table >
-  <tr>
-    <th width="30%">Week</th>
-    <th width="18%">Day</th>
-    <th width="34%">Topic</th>
-    <th width="18%">Problems</th>
+  <tr align="center">
+    <th >&emsp;&emsp;&emsp;&emsp;&emsp;Week&emsp;&emsp;&emsp;&emsp;</th>
+    <th >&emsp;Day&emsp;</th>
+    <th >&emsp;&emsp;&emsp;&emsp;&emsp;Topic&emsp;&emsp;&emsp;&emsp;&emsp;</th>
+    <th >&emsp;&emsp;Problems&emsp;&emsp;</th>
   </tr>
 
   <!-- Week 1 -->
-  <tr>
-    <td rowspan="7"><strong>Week 1</strong></td>
+  <tr align="center">
+    <td rowspan="7"><strong>Week 1</strong><br>🔀 Soring and Arrays</td>
     <td>1</td>
     <td>Sorting</td>
     <td>3</td>
   </tr>
   
-  <tr><td>2</td><td>Sorting</td><td>3</td></tr>
-  <tr><td>3</td><td>Sorting & Arrays</td><td>2</td></tr>
-  <tr><td>4</td><td>Arrays</td><td>2</td></tr>
-  <tr><td>5</td><td>Arrays</td><td>2</td></tr>
-  <tr><td>6</td><td>Arrays</td><td>2</td></tr>
-  <tr><td>7</td><td>Revision</td><td>-</td></tr>
+  <tr align="center"><td>2</td><td>Sorting</td><td>3</td></tr>
+  <tr align="center"><td>3</td><td>Sorting & Arrays</td><td>2</td></tr>
+  <tr align="center"><td>4</td><td>Arrays</td><td>2</td></tr>
+  <tr align="center"><td>5</td><td>Arrays</td><td>2</td></tr>
+  <tr align="center"><td>6</td><td>Arrays</td><td>2</td></tr>
+  <tr align="center"><td>7</td><td>Revision</td><td>-</td></tr>
 
-<!-- 
-// Week 2
-<tr>
-    <td rowspan="7"><strong>Week 2</strong><br>🔗 Linear DS</td>
+  
+<tr align="center">
+    <td rowspan="7"><strong>Week 2</strong><br>🔢 Arrays </td>
     <td>8</td>
-    <td>Linked Lists</td>
-    <td>3</td>
+    <td>Arrays</td>
+    <td>2</td>
   </tr>
-  <tr><td>9</td><td>Linked Lists</td><td>3</td></tr>
-  <tr><td>10</td><td>Stack & Queue</td><td>3</td></tr>
-  <tr><td>11</td><td>Queue & Deque</td><td>3</td></tr>
-  <tr><td>12</td><td>Heap/Priority Queue</td><td>3</td></tr>
-  <tr><td>13</td><td>Heap Applications</td><td>3</td></tr>
-  <tr><td>14</td><td>Mixed Practice</td><td>3</td></tr>
- -->
+  <tr align="center"><td>9</td><td>Arrays</td><td>2</td></tr>
+  <tr align="center"><td>10</td><td>Arrays</td><td>2</td></tr>
+
 </table>
 
 ---
+
+## 📊 Weekly Summary Cards
+
+<br>
+
+<div align="center">
+<table>
+<tr>
+  
+<td align="center">
+<img src="https://img.shields.io/badge/Week%201-Foundation-FF6B6B?style=for-the-badge&logo=foundation&logoColor=white"/><br>
+<sub>Days: 7/7 | Problems: 16</sub>
+</td>
+
+<!--
+<td align="center">
+<img src="https://img.shields.io/badge/Week%202-Linear%20DS-4ECDC4?style=for-the-badge&logo=link&logoColor=white"/><br>
+<sub>Days: 0/7 | Problems: </sub>
+</td>
+-->
+
+</tr>
+<table>
+</div>
+
+<br>
+
+
+---
+
 
 ## 🏗️ Project Setup: Get The Full Experience
 
