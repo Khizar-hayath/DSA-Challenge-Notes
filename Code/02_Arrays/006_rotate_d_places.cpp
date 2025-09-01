@@ -1,10 +1,11 @@
 //TITLE: Left rotate the array by D places 
 //EXAMPLE: I/P: [1,2,3,4], d=1  -> O/P [2,3,4,1] 
 
-
 #include <bits/stdc++.h>
 using namespace std;
 
+
+//BRUTE SOLUTION 
 //SOLN: Store d elements in temp array | Move elements by d places to right | Place values from temp array into original array 
 //- TC: O(n+d) 
 //- SC: O(d) 
@@ -26,6 +27,7 @@ void left_rotate_dplaces_brute(vector<int>& arr, int n, int d){
   }
 }
 
+//OPTIMAL SOLUTION 
 //SOLN: Rotate first d elements, then remaining n-d elements and finally rotate the whole array. Boom!! You found the answer 
 //- TC: O(2n) 
 //- SC: O(1) No extra space used 

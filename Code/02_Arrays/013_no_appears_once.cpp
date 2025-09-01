@@ -7,9 +7,9 @@ using namespace std;
 
 
 // BRUTE SOLUTION 
+//SOLN: Linear search with every element in array, if not found again in the array it's ans 
 //- TC ⏱️: O(n^2)
 //- SC 🧾: O(1) 
-//SOLN: Linear search with every element in array, if not found again in the array it's ans 
 
 int no_appears_once_brute(vector<int> arr, int n){
   for(int i = 0; i<arr.size(); i++){                           //The number to be found  //NOTE: n becuse a number is missing 
@@ -26,10 +26,10 @@ int no_appears_once_brute(vector<int> arr, int n){
 }
 
 
-//BETTER SOLUTION 1
+//BETTER SOLUTION 1 
+//SOLN: Using hashing | Find max no | Declare hash using max no & use hashing to store index | Retrieve through hash and check if cnt==1 
 //- TC ⏱️: O(n) 
 //- SC 🧾: O(maxElement in array) (Bigger the number, that many indexes required in hash vector)
-//SOLN: Using hashing | Find max no | Declare hash using max no & use hashing to store index | Retrieve through hash and check if cnt==1 
 int no_appears_once_better(vector<int> arr, int n){
   int maxi = 0;
   for(int i=0;i<n; i++){
@@ -52,9 +52,9 @@ int no_appears_once_better(vector<int> arr, int n){
 
 
 //BETTER SOLUTION 2 
+// SOLN: Use an ordered map to count frequency of each number, then return the one with count = 1.
 //- TC ⏱️: O(n log M) + O(M) -> where M is size of map 
 //- SC 🧾: O(M) -> where M is size of map 
-// SOLN: Use an ordered map to count frequency of each number, then return the one with count = 1.
 int no_appears_once_better_map(vector<int> arr, int n){
   map<int,int> mpp;
   for(int i=0; i<n; i++){
@@ -71,11 +71,11 @@ int no_appears_once_better_map(vector<int> arr, int n){
 
 // OPTIMAL SOLUTION 
 //SOLN: XOR all the elements, the number present only once is returned as answer 
+//- TC ⏱️: O(n) 
+//- SC 🧾: O(1) 
 //! Two properties of XOR
 //!  a ^ a = 0
 //!  a ^ 0 = a
-//- TC ⏱️: O(n) 
-//- SC 🧾: O(1) 
 int no_appears_once_optimal(vector<int>& nums) {
     int result = 0;
     for (int num : nums) {

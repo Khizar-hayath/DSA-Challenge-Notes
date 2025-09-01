@@ -1,10 +1,11 @@
 //TITLE: MOVE ZEROES TO END 
-// EXAMPLE: I/P: [0,1,0,3,12] -> O/P: [1,3,12,0,0]
-
+// EXAMPLE: I/P: [0,1,0,3,12] -> O/P: [1,3,12,0,0] 
 
 #include <bits/stdc++.h>
 using namespace std;
 
+
+//BRUTE SOLUTION 
 //SOLN: Store first element in temp | Move all elements 1 index before | Place temp at last index 
 //- TC: O(n) 
 //- SC: O(n) 
@@ -35,6 +36,7 @@ void move_zeroes_to_end_brute(vector<int> &arr, int n)
 }
 
 
+//OPTIMAL SOLUTION 
 //SOLN: Find the first element with 0 and initialise with j, if no 0 is found swap. Continue until end of array 
 //- TC: O(n) 
 //- SC: O(1) 

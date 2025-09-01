@@ -1,9 +1,8 @@
-//PROBLEM: Maximum consecutive 1's in an array
-//Soln: Iterate in the array and count no of ones in array, cnt=0 (reset) if there is gap in finding 1 
-//- TC ⏱️: O(n)
-//- SC 🧾: O(1) 
+//PROBLEM: Maximum consecutive 1's in an array 
 //EXAMPLE: I/P: [1,1,0,1,1,1,0,1,1]  -> O/P: 3 
-
+//Soln: Iterate in the array and count no of ones in array, cnt=0 (reset) if there is gap in finding 1 
+//- TC ⏱️: O(n) 
+//- SC 🧾: O(1) 
 
 #include <bits/stdc++.h>
 using namespace std;

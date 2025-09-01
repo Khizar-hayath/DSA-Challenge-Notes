@@ -6,9 +6,9 @@ using namespace std;
 
 
 // BRUTE SOLUTION 
+//SOLN: Check all possible sub-arrays sum and compare with the required sum using 2 loops 
 //- TC ⏱️: O(n^2) 
 //- SC 🧾: O(1) 
-//SOLN: Check all possible sub-arrays sum and compare with the required sum using 2 loops 
 int left_subarray_with_SumK_brute(vector<int> &a, int k){
   int n = a.size();
   long long sum = 0;
@@ -25,9 +25,9 @@ int left_subarray_with_SumK_brute(vector<int> &a, int k){
 }
 
 // OPTIMAL SOLUTION 
+//SOLN: Keep track of prefix sums and use a map to check if we’ve seen the required sum before to find the longest subarray 
 //- TC ⏱️: O(N*log(N)) -> log N for map 
 //- SC 🧾: O(N) 
-//SOLN: Keep track of prefix sums and use a map to check if we’ve seen the required sum before to find the longest subarray 
 int lSubarrayWithSumK(vector<int> a, long long k){
   map<long long, int> preSumMap;
   long long sum = 0;

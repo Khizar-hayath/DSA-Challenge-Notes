@@ -4,6 +4,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+
 // BRUTE SOLUTION 
 //SOLN: Store the nos in set, set cannot have duplicate elements 
 //- TC: O(n log n)       - n(log(n)) to store in a set 
@@ -23,6 +24,7 @@ int remove_duplicate_brute(vector<int> &arr, int n){             //Remember - Pa
   }
   return index;
 }
+
 
 // OPTIMAL SOLUTION 
 //SOLN: Two pointer approach - i=arr[0] & j=arr[1], j scans the array. When j finds a new unique value, place it after i and move i index forward. This continues until all elements from staring become unique 

@@ -1,12 +1,11 @@
 //PROBLEM: Return second largest element in an array 
 //EXAMPLE: i/p [2, 4, 6, 8, 9, 33, 4, 66]   o/p: 33
 
-
 #include <bits/stdc++.h>
 using namespace std;
 
-//BRUTE SOLUTION 
 
+//BRUTE SOLUTION 
 //SOLN: Sort the array and Traverse the array from end to find the second largest element 
 //- TC ⏱️: O(n + n(log(n))                       (n(log(n) for sorting technique) 
 //- SC 🧾: O(1) -> No extra space used 
@@ -24,7 +23,6 @@ int s_largest_brute(vector<int> arr, int n){
 
 
 //BETTER SOLUTION 
-
 //SOLN: Loop through the array 2 times, first to find largest and then to find second largest element 
 //- TC ⏱️: O(2*n) -> for 2 loops
 //- SC 🧾: O(1) -> No extra space used 
@@ -49,7 +47,6 @@ int s_largest_better(const vector<int>& arr, int n){
 
 
 //OPTIMAL SOLUTION 
-
 //SOLN: Looping througn the array only one time and declaring largest and second largest num at once 
 //- TC ⏱️: O(n) 
 //- SC 🧾: O(1) -> No extra space used 

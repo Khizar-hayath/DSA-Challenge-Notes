@@ -1,5 +1,5 @@
-//PROBLEM: Intersection of sorted array
-//EXAMPLE: I/P: a = [1,2,3,4], b = [2,3,4,5]  -> O/P [2,3,4]
+//PROBLEM: Intersection of sorted array 
+//EXAMPLE: I/P: a = [1,2,3,4], b = [2,3,4,5]  -> O/P [2,3,4] 
 
 #include <bits/stdc++.h>
 using namespace std;

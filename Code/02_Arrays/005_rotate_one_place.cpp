@@ -1,9 +1,8 @@
 //TITLE: ROATATE ARRAY BY 1 PLACE 
+//EXAMPLE: I/P: [1,2,3,4]  -> O/P [2,3,4,1]
 //SOLN: Store first element in temp, move all elements 1 index befor and place temp at last index 
 //- TC: O(n) 
 //- SC: O(1) 
-//EXAMPLE: I/P: [1,2,3,4]  -> O/P [2,3,4,1]
-
 
 #include <bits/stdc++.h>
 using namespace std;

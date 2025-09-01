@@ -1,8 +1,8 @@
 //PROBLEM: Check if the array is sorted 
+//EXAMPLE: i/p [2, 4, 6, 8, 9, 33, 4, 66]   o/p: Not sorted  (OR) Sorted
 //SOLN: Loop through the array and check if the prev num is less than or equal to the num ahead 
 //- TC ⏱️: O(n) 
 //- SC 🧾: O(1) -> No extra space used 
-//EXAMPLE: i/p [2, 4, 6, 8, 9, 33, 4, 66]   o/p: Not sorted  (OR) Sorted
 
 #include <bits/stdc++.h>
 using namespace std;

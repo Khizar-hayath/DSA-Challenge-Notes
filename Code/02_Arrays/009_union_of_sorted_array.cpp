@@ -1,9 +1,9 @@
 //PROBLEM: Union of sorted array 
 //EXAMPLE: I/P: arr1 = [1,2,3,4] arr2 = [3,4,5,6]  -> O/P [1,2,3,4,5,6] 
 
-
 #include <bits/stdc++.h>
 using namespace std;
+
 
 // BRUTE solution
 //SOLN: Store elements in set - Set contains only unique elements 
