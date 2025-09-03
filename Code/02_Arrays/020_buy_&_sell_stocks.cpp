@@ -1,12 +1,12 @@
 //PROBLEM: Buy and sell stocks 
-//EXAMPLE: I/P:            O/P:  
+//EXAMPLE: I/P: [7,1,5,3,6,4]           O/P: 5 (This is max profit, buy -> 1 | sell -> 6) 
 
 #include <bits/stdc++.h>
 using namespace std;
 
 
 
-//OPTIMAL SOLUTION -  
+//OPTIMAL SOLUTION 
 //Soln: Try selling everyday in array and claculate profit. If stock price is is less, initialise it as min stock price. Use this min price as buying price to maximise the profit. 
 //- TC ⏱️: O(N) 
 //- SC 🧾: O(1) 
@@ -38,7 +38,13 @@ int main(){
 }
 
 
-int buy_sell_stocks(vector<int> &nums, int n){
+
+
+
+
+//!! My wrong solutions (It's here so you know what are the mistakes to avoid)
+//err ❌ WRONG SOLUTION 1
+int buy_sell_stocks(vector<int> &nums, int n){ //Attempt 1
   int buy=0, sell=0;
   int index = 0;
   //Find minimum number in array (until 2nd last element)
@@ -57,9 +63,9 @@ int buy_sell_stocks(vector<int> &nums, int n){
   return sell - buy;
 }
 
-//!! My wrong solution
 
-int buy_sell_two_pass(vector<int>& nums, int n) {
+//err ❌ WRONG SOLUTION 2
+int buy_sell_two_pass(vector<int>& nums, int n) { //Attempt 2
   int minIndex = 0;
   for (int i = 1; i < n; i++) {
     if (nums[i] < nums[minIndex]) {
