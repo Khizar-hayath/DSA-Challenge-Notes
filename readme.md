@@ -144,6 +144,9 @@ The repository is organized logically to ensure easy navigation and scalability.
 
   <tr align="center"><td>16</td><td>Arrays</td><td>2</td></tr>
   <tr align="center"><td>17</td><td>Arrays</td><td>1</td></tr>
+  <tr align="center"><td>18</td><td>Arrays</td><td>2</td></tr>
+  <tr align="center"><td>19</td><td>Arrays</td><td>2</td></tr>
+  <tr align="center"><td>20</td><td>Break day</td><td>-</td></tr>
 
 </table>
 
