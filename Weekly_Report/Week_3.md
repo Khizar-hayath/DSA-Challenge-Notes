@@ -6,6 +6,7 @@
 ![Week 2 Complete](https://img.shields.io/badge/Week%202-Complete-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![Days](https://img.shields.io/badge/Days-21%2F50-FF6B6B?style=for-the-badge&logo=calendar&logoColor=white)
 ![Problems](https://img.shields.io/badge/Problems-08-4ECDC4?style=for-the-badge&logo=code&logoColor=white)
+</br>
 ![Efficiency](https://img.shields.io/badge/Efficiency-40%25-FFD700?style=for-the-badge&logo=speedtest&logoColor=white)
 
 
@@ -27,6 +28,23 @@ It was a slow week. Next week not gonna be this slow!
 
 ---
 
+## Best page of the week 📜
+
+![diagram](pics/week3.jpg)
+
+This small diagram effectively explains the logic for the problem **Next permutation**.
+
+---
+
+## Mistakes I made ❌
+
+- **Not using sets for optimal solution:** Seaching trough sets take way less time than searching them linearly.
+- **Taking break everyday to relax mind:** It was reqired I suppose (Maybe not a mistake)
+
+- Many of the silly mistakes have been eliinated till now
+
+---
+
 ## Daily Progress 📅
 <br>
 
@@ -44,23 +62,6 @@ It was a slow week. Next week not gonna be this slow!
 
 ---
 
-
-## Mistakes I made ❌
-
-- **Not using sets for optimal solution:** Seaching trough sets take way less time than searching them linearly.
-- **Taking break everyday to relax mind:** It was reqired I suppose (Maybe not a mistake)
-
-- Many of the silly mistakes have been eliinated till now
-
----
-
-## Best page of the week 📜
-
-![diagram](pics/week3.jpg)
-
-This small diagram effectively explains the logic for **Next permutation**.
-
----
 
 ## Week 3 Preview 🚀 
 
