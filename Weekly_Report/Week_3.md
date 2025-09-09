@@ -24,8 +24,7 @@ It was a slow week. Next week not gonna be this slow!
 - **Days completed (cumulative):** 21 / 50  
 - **Problems solved this week:** 08 (4 Easy, 4 Medium)  
 - **Platforms:** LeetCode (primary)  
-- **Topics focused:** Arrays (search, set ops, sliding-window, prefix-sum, XOR tricks, DNF, majority voting)
-
+- **Topics focused:** Kadane’s & greedy stock, rearrangements, next permutation, leaders, equalization
 ---
 
 ## Best page of the week 📜
