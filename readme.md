@@ -122,7 +122,7 @@ The repository is organized logically to ensure easy navigation and scalability.
   <tr align="center"><td>7</td><td>Revision</td><td>-</td></tr>
 
   
-<tr align="center">
+  <tr align="center">
     <td rowspan="7"><strong>Week 2</strong><br>🔢 Arrays (Easy and Medium questions) <br> 🟢 🟠</td>
     <td>8</td>
     <td>Arrays</td>
@@ -147,6 +147,17 @@ The repository is organized logically to ensure easy navigation and scalability.
   <tr align="center"><td>18</td><td>Arrays</td><td>2</td></tr>
   <tr align="center"><td>19</td><td>Arrays</td><td>2</td></tr>
   <tr align="center"><td>20</td><td>Break day</td><td>-</td></tr>
+  <tr align="center"><td>21</td><td>Revision</td><td>-</td></tr>
+
+
+  <tr align="center">
+    <td rowspan="7"><strong>Week 4</strong><br>🔢 Arrays (Difficult questions) <br> 🔴 </td>
+    <td>22</td>
+    <td>Arrays</td>
+    <td>1</td>
+  </tr>
+  <tr align="center"><td>23</td><td>Arrays</td><td>1</td></tr>
+
 
 </table>
 
