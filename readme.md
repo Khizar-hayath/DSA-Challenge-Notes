@@ -159,6 +159,7 @@ The repository is organized logically to ensure easy navigation and scalability.
   <tr align="center"><td>23</td><td>Arrays</td><td>1</td></tr>
   <tr align="center"><td>24</td><td>Arrays</td><td>2</td></tr>
   <tr align="center"><td>25</td><td>Arrays</td><td>1</td></tr>
+  <tr align="center"><td>26</td><td>Arrays</td><td>1</td></tr>
 
 
 </table>
