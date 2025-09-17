@@ -151,7 +151,7 @@ The repository is organized logically to ensure easy navigation and scalability.
 
 
   <tr align="center">
-    <td rowspan="7"><strong>Week 4</strong><br>🔢 Arrays (Difficult questions) <br> 🔴 </td>
+    <td rowspan="7"><strong>Week 4</strong><br>🔢 Arrays (Difficult questions) <br> 🔴 <br><br><br> SIH brainstorming</td>
     <td>22</td>
     <td>Arrays</td>
     <td>1</td>
@@ -164,6 +164,14 @@ The repository is organized logically to ensure easy navigation and scalability.
   <tr align="center"><td>28</td><td>Revision</td><td>0</td></tr>
 
 
+  <tr align="center">
+    <td rowspan="7"><strong>Week 5</strong><br>🔢 Arrays (Difficult questions) <br> 🔴 <br><br><br> Also attended AI Hackathon</td>
+    <td>29</td>
+    <td>Arrays</td>
+    <td>1</td>
+  </tr>
+
+  
 </table>
 
 ---
