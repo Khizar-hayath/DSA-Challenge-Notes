@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="https://github.com/user-attachments/assets/2956e4a8-e2be-49f5-95e1-5ddb183f8537" alt="bg image" width="70%" />
+
   <br/>
 
 ---
@@ -165,7 +166,7 @@ The repository is organized logically to ensure easy navigation and scalability.
 
 
   <tr align="center">
-    <td rowspan="7"><strong>Week 5</strong><br>🔢 Arrays (Difficult questions) <br> 🔴 <br><br><br> Also attended AI Hackathon</td>
+    <td rowspan="7"><strong>Week 5</strong><br>🔢 Arrays (Difficult questions) <br> 🔴 <br><br><br> Attended AI Hackathon <br>SIH Internal Hackathon</td>
     <td>29</td>
     <td>Arrays</td>
     <td>1</td>
@@ -175,6 +176,8 @@ The repository is organized logically to ensure easy navigation and scalability.
   <tr align="center"><td>31</td><td>Arrays</td><td>1</td></tr>
   <tr align="center"><td>32</td><td>Arrays</td><td>1</td></tr>
   <tr align="center"><td>33</td><td>Arrays</td><td>1</td></tr>
+  <tr align="center"><td>34</td><td>Arrays</td><td>1</td></tr>
+  <tr align="center"><td>35</td><td>Arrays</td><td>1</td></tr>
   
   
 </table>
