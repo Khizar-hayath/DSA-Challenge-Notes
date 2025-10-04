@@ -29,7 +29,6 @@ int ceil_bs(vector<int> &nums, int target){
 int floor_bs(vector<int> &nums, int target){
   int n = nums.size();
   int low = 0, high = n-1;
-  int ans = n;
   int ans = -1;  //no floor exists
 
   while(low <= high){
