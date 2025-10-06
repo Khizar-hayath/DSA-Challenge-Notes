@@ -32,7 +32,7 @@
 
 ## 📌 Overview
 
-Welcome to my **50 Days of DSA Challenge** — an initiative to sharpen problem-solving skills and improve consistency.  
+Welcome to my **50 Days of DSA Challenge**: an initiative to sharpen problem-solving skills and improve consistency.  
 This repository will grow daily with **new problems, multiple approaches, explanations, and learnings.**  
 It's a personal effort for growth with a sincere intent to help others **learn and grow**.
 
@@ -161,7 +161,7 @@ The repository is organized logically to ensure easy navigation and scalability.
   <tr align="center"><td>24</td><td>Arrays</td><td>2</td></tr>
   <tr align="center"><td>25</td><td>Arrays</td><td>1</td></tr>
   <tr align="center"><td>26</td><td>Arrays</td><td>1</td></tr>
-  <tr align="center"><td>27</td><td>No questions solved</td><td>0</td></tr>
+  <tr align="center"><td>27</td><td>Revision</td><td>0</td></tr>
   <tr align="center"><td>28</td><td>Revision</td><td>0</td></tr>
 
 
@@ -177,7 +177,23 @@ The repository is organized logically to ensure easy navigation and scalability.
   <tr align="center"><td>32</td><td>Arrays</td><td>1</td></tr>
   <tr align="center"><td>33</td><td>Arrays</td><td>1</td></tr>
   <tr align="center"><td>34</td><td>Arrays</td><td>1</td></tr>
-  <tr align="center"><td>35</td><td>Arrays</td><td>1</td></tr>
+  <tr align="center"><td>35</td><td>Arrays</td><td>Revision</td></tr>
+
+
+
+  <tr align="center">
+    <td rowspan="7"><strong>Week 6</strong><br> Binary Search <br> <br>🟢 🟠<br></td>
+    <td>36</td>
+    <td>Binary Search</td>
+    <td>1</td>
+  </tr>
+
+  <tr align="center"><td>37</td><td>Binary Search</td><td>2</td></tr>
+  <tr align="center"><td>38</td><td>Binary Search</td><td>3</td></tr>
+  <tr align="center"><td>39</td><td>Binary Search</td><td>1</td></tr>
+  <tr align="center"><td>40</td><td>Binary Search</td><td>2</td></tr>
+  <tr align="center"><td>41</td><td>Binary Search</td><td>1</td></tr>
+  <tr align="center"><td>42</td><td>Binary Search</td><td>Revision</td></tr>
   
   
 </table>
