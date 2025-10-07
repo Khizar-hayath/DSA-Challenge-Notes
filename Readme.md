@@ -193,7 +193,7 @@ The repository is organized logically to ensure easy navigation and scalability.
   <tr align="center"><td>39</td><td>Binary Search</td><td>1</td></tr>
   <tr align="center"><td>40</td><td>Binary Search</td><td>2</td></tr>
   <tr align="center"><td>41</td><td>Binary Search</td><td>1</td></tr>
-  <tr align="center"><td>42</td><td>Binary Search</td><td>Revision</td></tr>
+  <tr align="center"><td>42</td><td>Binary Search</td><td>Revision </td></tr>
   
   
 </table>
