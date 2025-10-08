@@ -1,5 +1,5 @@
-//PROBLEM: Single element in sorted array 
-//Soln: Keep checking the middle number and its neighbor, moving right if they’re a pair and left if not, until one number remains 
+//PROBLEM: Find peak element
+//Soln: Check numbers at a[i-1] and a[i+1] to decide 
 //EXAMPLE: I/P: nums = [1,1,2,3,3,4,4,8,8]     O/P: 2 
 
 #include <iostream>
