@@ -15,11 +15,16 @@ int findMin(vector<int>& nums) {
   while(low <= high){
     int mid = (low + high) / 2;
 
-    if(nums[low] <= nums[mid]){
+    if (nums[low] <= nums[high]){    //Already sorted
+      ans = min(ans, nums[low]);
+      break;
+    }
+
+    if(nums[low] <= nums[mid]){  //Left part sorted
       ans = min(ans, nums[low]);
       low = mid + 1;
     }
-    else{
+    else{   //Right part sorted
       ans = min(ans,nums[mid]);
       high = mid - 1;
     }
@@ -30,7 +35,7 @@ int findMin(vector<int>& nums) {
 
 
 int main(){
-  int n, x;
+  int n;
   cout << "Enter number of elements in the array: ";
   cin >> n;
 
