@@ -120,7 +120,7 @@ The repository is organized logically to ensure easy navigation and scalability.
   <tr align="center"><td>4</td><td>Arrays</td><td>2</td></tr>
   <tr align="center"><td>5</td><td>Arrays</td><td>2</td></tr>
   <tr align="center"><td>6</td><td>Arrays</td><td>2</td></tr>
-  <tr align="center"><td>7</td><td>Revision</td><td>-</td></tr>
+  <tr align="center"><td>7</td><td>Arrays & Patterns</td><td>Revision</td></tr>
 
   
   <tr align="center">
@@ -134,7 +134,7 @@ The repository is organized logically to ensure easy navigation and scalability.
   <tr align="center"><td>11</td><td>Arrays</td><td>2</td></tr>
   <tr align="center"><td>12</td><td>Arrays</td><td>2</td></tr>
   <tr align="center"><td>13</td><td>Arrays</td><td>1</td></tr>
-  <tr align="center"><td>14</td><td>Revision</td><td>-</td></tr>
+  <tr align="center"><td>14</td><td>Arrays & STL</td><td>Revision</td></tr>
 
   <tr align="center">
     <td rowspan="7"><strong>Week 3</strong><br>🔢 Arrays (Medium and Hard questions) <br> 🟠 🔴 </td>
@@ -148,7 +148,7 @@ The repository is organized logically to ensure easy navigation and scalability.
   <tr align="center"><td>18</td><td>Arrays</td><td>2</td></tr>
   <tr align="center"><td>19</td><td>Arrays</td><td>2</td></tr>
   <tr align="center"><td>20</td><td>Break day</td><td>-</td></tr>
-  <tr align="center"><td>21</td><td>Revision</td><td>-</td></tr>
+  <tr align="center"><td>21</td><td>Arrays & Basic Maths</td><td>Revision</td></tr>
 
 
   <tr align="center">
@@ -161,8 +161,8 @@ The repository is organized logically to ensure easy navigation and scalability.
   <tr align="center"><td>24</td><td>Arrays</td><td>2</td></tr>
   <tr align="center"><td>25</td><td>Arrays</td><td>1</td></tr>
   <tr align="center"><td>26</td><td>Arrays</td><td>1</td></tr>
-  <tr align="center"><td>27</td><td>Revision</td><td>0</td></tr>
-  <tr align="center"><td>28</td><td>Revision</td><td>0</td></tr>
+  <tr align="center"><td>27</td><td>Arrays</td><td>Revision</td></tr>
+  <tr align="center"><td>28</td><td>Arrays</td><td>Revision</td></tr>
 
 
   <tr align="center">
@@ -182,7 +182,7 @@ The repository is organized logically to ensure easy navigation and scalability.
 
 
   <tr align="center">
-    <td rowspan="7"><strong>Week 6</strong><br> Binary Search <br> <br>🟢 🟠<br></td>
+    <td rowspan="7"><strong>Week 6</strong><br> Binary Search <br><br> BS on 1D Arrays</td>
     <td>36</td>
     <td>Binary Search</td>
     <td>1</td>
@@ -193,8 +193,20 @@ The repository is organized logically to ensure easy navigation and scalability.
   <tr align="center"><td>39</td><td>Binary Search</td><td>1</td></tr>
   <tr align="center"><td>40</td><td>Binary Search</td><td>2</td></tr>
   <tr align="center"><td>41</td><td>Binary Search</td><td>1</td></tr>
-  <tr align="center"><td>42</td><td>Binary Search</td><td>Revision </td></tr>
-  
+  <tr align="center"><td>42</td><td>Arrays & Binary Search</td><td>Revision</td></tr>
+
+
+
+  <tr align="center">
+    <td rowspan="7"><strong>Week 7</strong><br> Binary Search <br> <br>BS on 1D Arrays & Answers</td>
+    <td>43</td>
+    <td>Binary Search</td>
+    <td>1</td>
+  </tr>
+
+  <tr align="center"><td>44</td><td>Binary Search</td><td>1</td></tr>
+  <tr align="center"><td>45</td><td>Binary Search</td><td>2</td></tr>
+  <tr align="center"><td>46</td><td>Binary Search</td><td>1</td></tr>
   
 </table>
 
