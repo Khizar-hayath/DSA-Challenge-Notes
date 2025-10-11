@@ -5,7 +5,6 @@ using namespace std;
 
 //BRUTE SOLUTION 
 //Soln: Linear Search 
-//- TC ⏱️: O (m   * log N) (to base 2) 
 int nth_root(int n, int m) {
   for (int i = 1; i <= m; i++) {
     long long ans = 1;
