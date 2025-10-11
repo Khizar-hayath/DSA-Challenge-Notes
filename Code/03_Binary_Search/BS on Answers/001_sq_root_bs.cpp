@@ -3,7 +3,6 @@
 //EXAMPLE: I/P: nums = 36      O/P: 6 
 
 #include <iostream>
-#include <vector>
 using namespace std;
 
 
@@ -25,7 +24,6 @@ int main(){
   int n;
   cout << "Enter the number: ";
   cin >> n;
-
 
   int res = sqrt_bs(n);
 
